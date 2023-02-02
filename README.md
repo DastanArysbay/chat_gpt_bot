@@ -13,7 +13,7 @@ Before you begin, make sure you have the following tools installed on your syste
 
 1. Clone the repository to your local machine using the following command:
 
-`$ git clone https://github.com/<user>/OpenAITelegramBot.git`
+`$ git clone https://github.com/DastanArysbay/chat_gpt_bot`
 
 2. Change into the project directory:
 
