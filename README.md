@@ -36,7 +36,7 @@ Before you begin, make sure you have the following tools installed on your syste
 
 7. Replace the placeholder in the code with your OpenAI API key:
 
-```python```
+
 `openai.api_key = "YOUR_OPENAI_API_KEY"`
 
 8. Run the bot:
